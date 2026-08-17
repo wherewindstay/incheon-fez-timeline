@@ -1,0 +1,24 @@
+cff-version: "1.2.0"
+message: "If you use this work, please cite it as below."
+title: "Incheon Free Economic Zone Development Timeline (Songdo · Yeongjong)"
+abstract: "An interactive timeline of 90 development projects attempted in Songdo International City and Yeongjong Island, Incheon, traced through official notices, municipal council records, and press reports — showing when each project started, how it proceeded, and how it ended."
+authors:
+  - family-names: "Park"
+    given-names: "Sohyun"
+    affiliation: "George Mason University Korea"
+keywords:
+  - "free economic zone"
+  - "urban development"
+  - "Incheon"
+  - "Songdo"
+  - "Yeongjong"
+  - "foreign direct investment"
+  - "development timeline"
+  - "data visualization"
+license:
+  - "MIT"
+  - "CC-BY-4.0"
+repository-code: "https://github.com/wherewindstay/incheon-fez-timeline"
+url: "https://wherewindstay.github.io/incheon-fez-timeline/"
+type: "software"
+year: 2026
