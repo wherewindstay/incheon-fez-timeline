@@ -1,81 +1,81 @@
-# 인천경제자유구역 개발계획 타임라인
+# Incheon Free Economic Zone Development Timeline
 
-[English](README.en.md)
+[한국어](README.ko.md)
 
-외부 자본 유치 시도를 중심으로, 인천 송도국제도시와 영종도에서 시도된 주요 개발계획을 추적한 기록입니다. 계획이 언제 시작되어 어떻게 진행됐고 어떻게 끝났는지를 공적 문서로 좇았습니다.
+A record of major development projects attempted in Songdo International City and Yeongjong Island, Incheon, South Korea, focused on efforts to attract outside capital — when each project began, how it proceeded, and how it ended, traced through public documents.
 
-**[▶ 타임라인 보기](https://wherewindstay.github.io/incheon-fez-timeline/)** · [송도](https://wherewindstay.github.io/incheon-fez-timeline/songdo.html) · [영종](https://wherewindstay.github.io/incheon-fez-timeline/yeongjong.html)
+**[▶ View the timeline](https://wherewindstay.github.io/incheon-fez-timeline/)** · [Songdo](https://wherewindstay.github.io/incheon-fez-timeline/songdo.html) · [Yeongjong](https://wherewindstay.github.io/incheon-fez-timeline/yeongjong.html)
 
 | | |
 |---|---|
-| 계획 | 90건 (송도 46 · 영종 44) |
-| 사건 | 812건 |
-| 근거 | 982건 (1차 자료 655건, 66%) |
-| 기간 | 1990–2026 |
+| Projects | 90 (Songdo 46 · Yeongjong 44) |
+| Events | 812 |
+| Sources | 982 (655 primary, 66%) |
+| Period | 1990–2026 |
 
-## 무엇을 담았나
+## What is in it
 
-가로는 시간, 세로는 계획입니다. 점은 상태가 바뀐 순간이고, 누르면 그때 무슨 일이 있었는지와 근거 문서가 옆에 뜹니다. 선의 색은 그 시점 이후의 상태입니다.
+Time runs horizontally, projects vertically. Each dot is a moment when the status changed; clicking it shows what happened and the sources for it. Line colour indicates the status from that point on.
 
-- 🟢 운영 및 확장 추진
-- ⚪ 추진 중
-- 🟠 표류 및 재추진
-- 🔴 중단 및 재검토
+- 🟢 Operating / expanding
+- ⚪ In progress
+- 🟠 Stalled / restarted
+- 🔴 Discontinued / under review
 
-계획은 다섯 갈래로 묶었습니다 — 인프라, 산업·업무, 교육·병원·국제기구, 쇼핑몰, 문화·관광·레저(영종은 복합리조트·카지노, 미단시티 권역이 따로 있습니다).
+Projects are grouped into five categories — infrastructure, industry and business, education·hospitals·international organisations, shopping centres, and culture·tourism·leisure (Yeongjong additionally has integrated resorts·casinos and the Midan City area).
 
-## 수록 기준
+## Inclusion criteria
 
-- 외부 자본 유치 시도와 연관된 계획을 중심으로 다룹니다. 주거·내부 교통망 그 자체는 대상이 아니지만, 자족도시 형성과 연관된 것으로 판단된 경우 포함했습니다.
-- 매립·택지조성은 계획들의 전제라서 함께 실었고, 아파트 분양·입주는 넣지 않았습니다.
-- 인허가·행정 절차가 문서로 확인되는 계획을 중심으로 넣었습니다.
-- 송도테마파크(부영)는 매립지 밖(옛 송도유원지, 동춘동)이지만 함께 실었습니다.
+- Projects connected to efforts to attract outside capital. Housing and internal transport are not subjects in themselves, but are included where judged relevant to the formation of a self-sufficient city.
+- Land reclamation and site development are included as the precondition for everything built on them; apartment sales and occupancy are not.
+- Projects are included where permitting and administrative procedures are documented.
+- Songdo Theme Park (Booyoung) sits outside the reclaimed land (the former Songdo Amusement Park, Dongchun-dong) but is included.
 
-## 자료
+## Sources
 
-**1차 자료**
+**Primary**
 
-- 인천경제자유구역청 고시공고 — 송도·영종 키워드로 검색해 계획 문서를 확인
-- 인천광역시의회 위원회 자료 — 주요업무보고·주요예산사업 추진상황보고·행정사무감사 1,616건(2002-01~2026-07)에서 발췌
-- 기관 자료 — IFEZ 보도자료, 인천국제공항공사·해양수산부·산업통상자원부 경제자유구역기획단·인천도시공사·인천항만공사 보도자료, 외교부 자료, 시행 기업의 공식 연혁
-- 미국 증권거래위원회(SEC) 전자공시 — 미국 상장사가 낸 신고서
+- Official notices of the Incheon Free Economic Zone Authority, searched by Songdo and Yeongjong keywords
+- Incheon Metropolitan Council committee records — 1,616 documents (Jan 2002 – Jul 2026) of business reports, budget progress reports, and administrative audits
+- Institutional material — press releases from IFEZ, Incheon International Airport Corporation, the Ministry of Oceans and Fisheries, the Free Economic Zone Planning Office of the Ministry of Trade, Industry and Energy, Incheon Urban Corporation, and Incheon Port Authority; Ministry of Foreign Affairs records; official histories published by the developers themselves
+- U.S. Securities and Exchange Commission filings
 
-**2차 자료**
+**Secondary**
 
-- 언론 보도(한국언론진흥재단 빅카인즈 포함)
-- 나무위키·위키백과는 사업의 존재를 찾는 데 활용했습니다
+- Press reports, including the Korea Press Foundation's BigKinds archive
+- Namuwiki and Wikipedia were used to find that a project existed
 
-각 사건의 근거는 화면에서 문서 이름과 함께 확인할 수 있고, 링크가 있는 것은 원문으로 이어집니다. 1차·2차 구분은 배지로 표시됩니다.
+Every event lists its sources by document name, with links to originals where available. Primary and secondary sources are marked with badges.
 
-## 한계
+## Limitations
 
-- 인천경제자유구역청이 2003년에 생겼고 시의회 자료실도 2002년 1월이 시작점이라, 2002년 이전 구간은 2차 자료 중심으로 구성했습니다.
-- 항만은 해양수산부·인천항만공사 소관이라 경제청 고시에 잡히지 않습니다(항만공사는 국가공기업이라 지방의회 감사 대상도 아닙니다). 시 해양항공국의 의회 보고로 공정 단계를 채웠고, 골든하버 표류 경위는 언론 보도가 주된 근거입니다.
-- 인천공항 국제업무지역(IBC) 안의 사업은 인천국제공항공사 소관이라 경제청 고시에도 시의회 감사에도 없어 공항공사 보도자료와 2차 자료로 구성했습니다.
-- 민간·합작 사업의 내부 결정(합작법인 분쟁의 세부, 지연 경위, 개발협약)은 의회 보고에 요약만 남아 상당수를 언론 보도로 채웠습니다. 언론사의 의견이 반영되었을 수 있습니다.
-- 표류인지 중단인지 판단하기 어려운 경우, 최근 5년 동안 관련 후속 이벤트가 없으면 중단으로 보았습니다.
-- 이벤트 날짜는 고시일·보고일·보도일 기준이며 실제 의사결정 시점과 다를 수 있습니다. 자료끼리 어긋나는 경우는 양쪽을 함께 적었고, 종료 시점을 특정하지 못하는 경우 연도를 임의로 두었습니다(화면에 ⚠로 표시).
-- 근거를 찾지 못한 자리는 비워 두고 "확인하지 못했음"으로 적었습니다.
-- 좌표는 지오코딩으로 얻은 대표점이며 사업 부지 경계가 아닙니다. 지번 주소는 구글 지도, 도로명·시설명은 OpenStreetMap을 썼습니다.
+- The zone authority was established in 2003 and the council archive begins in January 2002, so the period before 2002 relies on secondary sources.
+- Ports fall under the Ministry of Oceans and Fisheries and Incheon Port Authority and do not appear in zone authority notices (the port authority is a state enterprise and is not subject to municipal council audit). The sequence was reconstructed from the city maritime bureau's reports to the council; for Golden Harbor, press reports are the main source for how it stalled.
+- Projects inside the airport's International Business Center fall under the airport corporation and appear in neither zone notices nor council audits; they were assembled from airport corporation releases and secondary sources.
+- Internal decisions in private and joint-venture projects — the detail of partner disputes, reasons for delay, development agreements — survive only as summaries in council reports, so much of this is drawn from press coverage and may carry the outlet's interpretation.
+- Where it is difficult to judge between stalled and discontinued, a project with no related follow-up event in the last five years is treated as discontinued.
+- Event dates follow the date of the notice, report, or article and may differ from when the decision was actually made. Where sources disagree, both are recorded; where an end date could not be determined, a year was assigned (marked ⚠ on the page).
+- Where no evidence was found, the field is left empty and marked as unconfirmed.
+- Coordinates are representative points obtained by geocoding, not site boundaries. Lot-number addresses were resolved through Google Maps, road names and facility names through OpenStreetMap.
 
-## 함께 보기
+## Also here
 
-[시행착오 기록](TRIAL-AND-ERROR.ko.md) — 이 자료를 모으는 과정에서 AI가 틀린 지점과 사람이 개입한 지점을 정리했습니다.
+[Trial and error](TRIAL-AND-ERROR.md) — where the AI got it wrong and where a human stepped in, during the assembly of this material.
 
-## 인용
+## Citation
 
 ```
-박소현 (2026). 인천경제자유구역 개발계획 타임라인 (송도·영종).
+Park, S. (2026). Incheon Free Economic Zone Development Timeline (Songdo · Yeongjong).
 https://github.com/wherewindstay/incheon-fez-timeline
 ```
 
-저장소에 `CITATION.cff`가 있어 GitHub의 "Cite this repository"에서 BibTeX을 받을 수 있습니다.
+A `CITATION.cff` file is included, so GitHub's "Cite this repository" will generate BibTeX.
 
-## 라이선스
+## Licence
 
-- 코드 — [MIT](LICENSE)
-- 글·그림·분석 결과(타임라인 데이터 포함) — [CC BY 4.0](CONTENT-LICENSE.md)
+- Code — [MIT](LICENSE)
+- Text, figures, and analytical output including the timeline data — [CC BY 4.0](CONTENT-LICENSE.md)
 
-저작자표시 후 인용해 주시기 바랍니다.
+Please cite with attribution.
 
-배경지도는 © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors, © [CARTO](https://carto.com/attributions)이며, 지도 라이브러리 [Leaflet](https://leafletjs.com)은 © Vladimir Agafonkin (BSD-2-Clause)입니다.
+Base maps © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors and © [CARTO](https://carto.com/attributions). The mapping library [Leaflet](https://leafletjs.com) is © Vladimir Agafonkin (BSD-2-Clause).
