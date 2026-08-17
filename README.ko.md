@@ -1,10 +1,12 @@
+[English](README.md) | **한국어**
+
 # 인천경제자유구역 개발계획 타임라인
 
-[English](README.md)
+> ### **[▶ 타임라인 열기 — wherewindstay.github.io/incheon-fez-timeline](https://wherewindstay.github.io/incheon-fez-timeline/)**
+>
+> *[송도](https://wherewindstay.github.io/incheon-fez-timeline/songdo.html) · [영종](https://wherewindstay.github.io/incheon-fez-timeline/yeongjong.html) — 점을 눌러 근거를 읽으려면 링크로 들어가야 합니다. GitHub 는 README 안에서 인터랙티브 콘텐츠를 실행하지 않습니다.*
 
 외부 자본 유치 시도를 중심으로, 인천 송도국제도시와 영종도에서 시도된 주요 개발계획을 추적한 기록입니다. 계획이 언제 시작되어 어떻게 진행됐고 어떻게 끝났는지를 공적 문서로 좇았습니다.
-
-**[▶ 타임라인 보기](https://wherewindstay.github.io/incheon-fez-timeline/)** · [송도](https://wherewindstay.github.io/incheon-fez-timeline/songdo.html) · [영종](https://wherewindstay.github.io/incheon-fez-timeline/yeongjong.html)
 
 | | |
 |---|---|
