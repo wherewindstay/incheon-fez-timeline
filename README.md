@@ -2,9 +2,9 @@
 
 # Incheon Free Economic Zone Development Timeline
 
-> ### **[▶ Open the timeline — wherewindstay.github.io/incheon-fez-timeline](https://wherewindstay.github.io/incheon-fez-timeline/)**
+> ### **[▶ Songdo](https://wherewindstay.github.io/incheon-fez-timeline/songdo.html)** · **[▶ Yeongjong](https://wherewindstay.github.io/incheon-fez-timeline/yeongjong.html)**
 >
-> *[Songdo](https://wherewindstay.github.io/incheon-fez-timeline/songdo.html) · [Yeongjong](https://wherewindstay.github.io/incheon-fez-timeline/yeongjong.html) — clicking a dot to read the sources needs the link. GitHub does not run interactive content inside a README.*
+> *Clicking a dot to read the sources needs the link. GitHub does not run interactive content inside a README.*
 
 A record of major development projects attempted in Songdo International City and Yeongjong Island, Incheon, South Korea, focused on efforts to attract outside capital — when each project began, how it proceeded, and how it ended, traced through public documents.
 
