@@ -1394,8 +1394,10 @@ document.addEventListener('keydown', e => {
 function drawMap(p){
   map = L.map('map', {zoomControl:true, attributionControl:true, dragging:true, scrollWheelZoom:true});
   map.attributionControl.setPrefix(false);      
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {maxZoom:16,
-    attribution:'&copy; OpenStreetMap &copy; CARTO'}).addTo(map);
+
+  document.head.insertAdjacentHTML('beforeend','<style>.basemap-soft{filter:grayscale(.9) brightness(1.06) contrast(.9)}.basemap-faint{filter:grayscale(1) brightness(1.18) contrast(.75)}</style>');
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom:16, className:'basemap-soft',
+    attribution:'&copy; OpenStreetMap 기여자'}).addTo(map);
   const pts = [];
   P.forEach((q, i) => {
     if (q.lon === null) return;
