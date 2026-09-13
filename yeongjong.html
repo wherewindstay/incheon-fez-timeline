@@ -1396,8 +1396,8 @@ function drawMap(p){
   map.attributionControl.setPrefix(false);      
 
   document.head.insertAdjacentHTML('beforeend','<style>.basemap-soft{filter:grayscale(.9) brightness(1.06) contrast(.9)}.basemap-faint{filter:grayscale(1) brightness(1.18) contrast(.75)}</style>');
-  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom:16, className:'basemap-soft',
-    attribution:'&copy; OpenStreetMap 기여자'}).addTo(map);
+  L.tileLayer('https://tile.openstreetmap.de/{z}/{x}/{y}.png', {maxZoom:16, className:'basemap-soft',
+    attribution:'&copy; OpenStreetMap 기여자 · 타일 OSM Deutschland'}).addTo(map);
   const pts = [];
   P.forEach((q, i) => {
     if (q.lon === null) return;
